@@ -1,2 +1,10 @@
-# Calculator
-This is a beginner program for a calculator that perfoms very basic operations.
+# 🐍 Python Projects
+
+A collection of single-file Python scripts.
+
+## 📂 Contents
+
+| File | Description |
+|------|-------------|
+| `Calculator.py` | Basic calculator |
+| `SquareWave.py` | Fourier synthesis: square wave from odd harmonics |
